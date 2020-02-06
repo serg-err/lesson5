@@ -1,4 +1,4 @@
-from mod import *
+from divisor_master import *
 check_simple(999)
 del_list(999)
 del_simple_max(999)
